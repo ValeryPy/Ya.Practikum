@@ -19,4 +19,4 @@ ESRB оценивает игровой контент и присваивает 
 - Рейтинг игры.
 
 ## Библиотеки:
-`pandas`, `matplotlib.pyplot`, `numpy`, `sns`, `scipy`
+`pandas`, `matplotlib.pyplot`, `numpy`, `seaborn`, `scipy`
