@@ -15,4 +15,4 @@
 
 ## Библиотеки:
 
-`pandas`, `numpy`, `datetime`, `timedelta`, `matplotlib`, `pyplot`, `scipy.stats'
+`pandas`, `numpy`, `datetime`, `timedelta`, `matplotlib`, `pyplot`, `scipy.stats`
