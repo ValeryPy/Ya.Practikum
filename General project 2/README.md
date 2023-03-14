@@ -32,4 +32,4 @@
 
 ## Библиотеки:
 
-`pandas`, `numpy`, `datetime`, `timedelta`,`pyplot`, `scipy.stats`, ` math`
+`pandas`, `numpy`, `datetime`, `timedelta`,`pyplot`, `scipy.stats`, `math`
